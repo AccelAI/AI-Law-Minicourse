@@ -1,11 +1,12 @@
 # AI & Law Mini-Course
  
 ## Logistics
-Date: Jan 22nd & 29th
-Location: Santa Clara University
-Time: 100 min & 4 hours of homework / session
-Audience: Graduate and Undergraduate (Non-CS major) Students
-Project: Topic Modeling of Supreme Court Documents 
+
+- Date: Jan 22nd & 29th
+- Location: Santa Clara University
+- Time: 100 min & 4 hours of homework / session
+- Audience: Graduate and Undergraduate (Non-CS major) Students
+- Project: Topic Modeling of Supreme Court Documents 
  
 ## Description
 The AI and Law Mini-course is designed to expose students to real-world use cases of Artificial Intelligence in law practice. We'll begin with a high-level overview of artificial intelligence concepts and techniques, then walk through an applied example of topic modeling for supreme court cases using Natural Language Processing. You'll also learn where to find public datasets for use in future research and applications.
