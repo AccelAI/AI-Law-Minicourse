@@ -14,11 +14,40 @@ The AI and Law Mini-course is designed to expose students to real-world use case
 ## Setup
 Make sure to follow the [AI-Workshop-Installation-Guides](https://github.com/AccelAI/AI-Workshop-Installation-Guides) to get your computer set up for the applied lab and homework sessions.
 
+### Clone this Repository
+
+```
+git clone https://github.com/AccelAI/AI-Law-Minicourse.git
+```
+
+### Start Docker
+
+Start Docker, e.g., using spotlight search (by pressing the cmd + space bar) or Finder to navigate to your Applications folder and double-clicking on the Docker icon
+
+### Open Workshop Repository
+
+Open a new terminal window by pressing **cmd + t** and move into the workshop directory by executing:
+
+```
+cd ~/AI-Law-Minicourse
+```
+
+### Link Clones Github Repository to Docker
+
+Link this directory to your Docker container by executing docker run -it --rm --name ai-law -v ~/AI-Law-Minicourse -p 8888:8888 -p 6006:6006
+
+More details on sharing files from your local machine into a Docker container can be found here: https://github.com/rocker-org/rocker/wiki/Sharing-files-with-host-machine
+
+### Installation Issues
+
 Virtual Office Hours for students who struggle with downloads on Anaconda distribution locally or through Docker.
 
 **Your computer must be set up to run an Anaconda distribution through Docker or locally prior to our first session on January 22nd** 
 
 If you have a problem following the installation guides, set an appointment for a 15 min troubleshooting session - https://calendly.com/accelai/15min-technical/.
+
+
+# Join Slack
 
 Join our slack channel - http://bit.ly/accelai-slack. Once in slack, you'll receive an invite to the private channel setup for this course. We'll be sending any additional materials through the private slack channel.
  
