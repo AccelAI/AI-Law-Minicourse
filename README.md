@@ -22,6 +22,7 @@ If you have a problem following the installation guides, set an appointment for 
 Join our slack channel - http://bit.ly/accelai-slack. Once in slack, you'll receive an invite to the private channel setup for this course. We'll be sending any additional materials through the private slack channel.
  
 # Table of Contents
+
 ## Session 1 Concepts
 - Artificial Intelligence Overview
 - Is AI taking over?
@@ -47,53 +48,53 @@ Join our slack channel - http://bit.ly/accelai-slack. Once in slack, you'll rece
 
 ## Assignments
 - [Topic Modeling in SciKit Learn](/Homework/Topic-Modeling/)
-- Complete the Tutorial - Vector Representation of Words using TensorFlow
+- [Complete the Tutorial - Vector Representation of Words using TensorFlow](https://www.tensorflow.org/tutorials/word2vec)
 - Assessment - How much did you learn? Vocabulary, Fluency, Context.
 
 ## Reading & Videos
 
 ### Session 1
-- Computational law, symbolic discourse, and the AI constitution
-- Machine Learning Basics, Ch 5 Deep Learning Book
-- From Data to AI - Machine Learning Canvas
-- Topic Modeling With Python Video Lecture
-- How Machines Learn to Be Racist - Propublica
-- Wisdom of the Crowd Predicts Supreme Court Decisions
-- A Beginners Guide to Deep Learning
+- [Computational law, symbolic discourse, and the AI constitution](https://www.wired.com/2016/10/computational-law-symbolic-discourse-and-the-ai-constitution/)
+- [Machine Learning Basics, Ch 5 Deep Learning Book](http://www.deeplearningbook.org/contents/ml.html)
+- [From Data to AI - Machine Learning Canvas](https://medium.com/louis-dorard/from-data-to-ai-with-the-machine-learning-canvas-part-i-d171b867b047)
+- [Topic Modeling With Python Video Lecture](https://youtu.be/BuMu-bdoVrU)
+- [How Machines Learn to Be Racist - Propublica](https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you)
+- [Wisdom of the Crowd Predicts Supreme Court Decisions](https://www.technologyreview.com/s/609852/wisdom-of-the-crowd-accurately-predicts-supreme-court-decisions/?set=)
+- [A Beginners Guide to Deep Learning](https://youtu.be/nCPf8zDJ0d0)
  
 ### Session 2
-- Improving Decision Analytics with Deep Learning: The Case of Financial Disclosures
-- New Theory Cracks Open the Black Box of Deep Learning
-- Related Video: Information Theory of Deep Learning by Naftali Tishby
-- Deep Learning Applications NLP, Ch 12 Pg 456 - 473 of Deep Learning Book
+- [Improving Decision Analytics with Deep Learning: The Case of Financial Disclosures](https://arxiv.org/pdf/1508.01993.pdf)
+- [New Theory Cracks Open the Black Box of Deep Learning](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921)
+    * [Related Video: Information Theory of Deep Learning by Naftali Tishby](https://youtu.be/bLqJHjXihK8)
+- [Deep Learning Applications NLP, Ch 12 Pg 456 - 473 of Deep Learning Book](http://www.deeplearningbook.org/contents/applications.html)
 
 ## Supplemental Materials
  
 ### Computing Resources
 - Python
-    * Codeacademy Learn Python
-    * Python 3 Basics Tutorial Series
+    * [Codeacademy Learn Python](https://www.codecademy.com/learn/learn-python)
+    * [Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 - Anaconda Distribution
-    * Anaconda Docs Getting Started Guide
+    * [Anaconda Docs Getting Started Guide](https://conda.io/docs/user-guide/getting-started.html)
 - Jupyter Notebook
-    * Jupyter/IPython Notebook Quick Start Guide
-    * Jupyter Notebook Tutorial: The Definitive Guide
+    * [Jupyter/IPython Notebook Quick Start Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
+    * [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
 - Web Scraping
-    * Web Scraping with Python Cheat Sheet
+    * [Web Scraping with Python Cheat Sheet](https://blog.hartleybrody.com/web-scraping-cheat-sheet/)
 - Github
-    * How to Collaborate On GitHub 
-    * GitHub Collaboration Best Practices
-    * Collaboration with Git and GitHub Video
+    * [How to Collaborate On GitHub](https://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267)
+    * [GitHub Collaboration Best Practices](https://github.com/ideaconsult/etc/wiki/GitHub-Collaboration-Best-Practices)
+    * [Collaboration with Git and GitHub Video](https://youtu.be/SCZF6I-Rc4I)
 - Command Line
-    * Codecademy Learn the Command Line
-    * Mac Terminal Cheat Sheet
-    * Windows Command Line Cheat Sheet
+    * [Codecademy Learn the Command Line](https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command)
+    * [Mac Terminal Cheat Sheet](https://skillcrush.com/wp-content/uploads/2016/04/1a-TerminalCommandsCheatsheetMac.pdf)
+    * [Windows Command Line Cheat Sheet](http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf)
  
  
 ### Civic Data Resources
-- Data.gov
-- Free Law Project
-- usa.gov/statistics
+- [Data.gov](https://www.data.gov/)
+- [Free Law Project](https://free.law/)
+- [usa.gov/statistics](https://www.usa.gov/statistics)
 - SEC Filings - You can get all SEC filings that public companies make on the SEC's website: https://www.sec.gov/edgar/searchedgar/companysearch.html
 - Here's a scraper that'll grab different types of SEC filings in bulk from the SEC website: https://github.com/javedqadruddin/EDGAR
  
