@@ -93,6 +93,14 @@ Join our slack channel - http://bit.ly/accelai-slack. Once in slack, you'll rece
     * For each step in this directory, write a paragraph or two of your interpretation of the code - in your own words describing what the code is doing
     * Include a description of the workflow being applied, what format the data is in during each step, what each function is doing, etc
 
+- [Complete the Tutorial - Vector Representation of Words using TensorFlow](https://www.tensorflow.org/tutorials/word2vec)
+    * Launch an empty Jupyter Notebook in your new **AI-Law-Minicourse-HW** local reposity
+        - If you downloaded Docker and are using the Docker-Hub image of Anaconda, you'll need to connect your new repository to your Docker instance
+        - If you downloaded Anaconda locally, you should be able to launch jupyter notebook from the local directory and have access to the needed scientific packages
+    * Add the code from this tutorial in your new Jupyter Notebook, make sure it executes as decribed
+        - Save your work intermittently
+        - Push your saved work from your local repository to the Github repository for assessment
+
 
 ## Reading & Videos
 
@@ -140,7 +148,7 @@ This lecture will prime you for a indepth overview of Deep Learning which we'll 
 These are available for students who take a keen interest in applying the code themselves:
 - [Topic Modeling in SciKit Learn](/Homework/Topic-Modeling/)
 
-- [Complete the Tutorial - Vector Representation of Words using TensorFlow](https://www.tensorflow.org/tutorials/word2vec)
+
 
 ### Readings
 
