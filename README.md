@@ -14,6 +14,8 @@ The AI and Law Mini-course is designed to expose students to real-world use case
 ## Setup
 Make sure to follow the [AI-Workshop-Installation-Guides](https://github.com/AccelAI/AI-Workshop-Installation-Guides) to get your computer set up for the applied lab and homework sessions.
 
+##Mac OSX
+
 ### Clone this Repository
 
 ```
@@ -77,28 +79,75 @@ Join our slack channel - http://bit.ly/accelai-slack. Once in slack, you'll rece
 # Homework
 
 ## Assignments
-- [Topic Modeling in SciKit Learn](/Homework/Topic-Modeling/)
-- [Complete the Tutorial - Vector Representation of Words using TensorFlow](https://www.tensorflow.org/tutorials/word2vec)
-- Assessment - How much did you learn? Vocabulary, Fluency, Context.
+
+- Setup a Github Account
+    * [Fork](https://guides.github.com/activities/forking/) this repository into your Github
+    * Create a new repository called "AI-Law-Minicourse-HW"
+    * Clone the **AI-Law-Minicourse-HW** to your local machine
+    * Add a **Readme.md** where you'll be adding your notes for the homework
+    * Apply [Markdown Formatting](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) to this document along with your answers
+    * Push the file from your local repository on your computer to the master branch on Github
+        - Refer to the Github resources listed below if you get stuck! 
+
+- Review the Applied Example covered in class - [Supreme Court Topic Modeling](./Supreme_Court_Topic_Modeling/)
+    * For each step in this directory, write a paragraph or two of your interpretation of the code - in your own words describing what the code is doing
+    * Include a description of the workflow being applied, what format the data is in during each step, what each function is doing, etc
+
 
 ## Reading & Videos
 
 ### Session 1
+
 - [Computational law, symbolic discourse, and the AI constitution](https://www.wired.com/2016/10/computational-law-symbolic-discourse-and-the-ai-constitution/)
-- [Machine Learning Basics, Ch 5 Deep Learning Book](http://www.deeplearningbook.org/contents/ml.html)
+
+This article helps you to understand the semantics involved in applying written or human law to a format that can be understood by a computer. It also introduces ideas around *smart contracts* utlizing Blockchain technology.
+
+
 - [From Data to AI - Machine Learning Canvas](https://medium.com/louis-dorard/from-data-to-ai-with-the-machine-learning-canvas-part-i-d171b867b047)
+
+Make sure you understand the workflow process and each segment of the Machine Learning Canvas. As part of your assessment, you'll be given a Legal AI example and expected to fill out the Canvas to satisfy the end goal.
+
 - [Topic Modeling With Python Video Lecture](https://youtu.be/BuMu-bdoVrU)
-- [How Machines Learn to Be Racist - Propublica](https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you)
+    * Watch the video on 1.5x or 2x speed
+    * First half has the most relevant information for your understanding - watch up to 27:00 minutes.
+
+Watch this video for an indepth explanation of Topic Modeling and algorithms applied in topic modeling. You'll be assessed on your understanding of NMF and TFIDF techniques.
+
+    
 - [Wisdom of the Crowd Predicts Supreme Court Decisions](https://www.technologyreview.com/s/609852/wisdom-of-the-crowd-accurately-predicts-supreme-court-decisions/?set=)
+
+This article is intended to inspire you regarding the possibilities of applying AI and Machine Learning techniques to law and politics.
+
 - [A Beginners Guide to Deep Learning](https://youtu.be/nCPf8zDJ0d0)
+    * Watch the video on 1.5x or 2x speed
+
+This lecture will prime you for a indepth overview of Deep Learning which we'll be covering in session 2 of this minicourse.
+
+
  
 ### Session 2
 - [Improving Decision Analytics with Deep Learning: The Case of Financial Disclosures](https://arxiv.org/pdf/1508.01993.pdf)
+
 - [New Theory Cracks Open the Black Box of Deep Learning](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921)
     * [Related Video: Information Theory of Deep Learning by Naftali Tishby](https://youtu.be/bLqJHjXihK8)
-- [Deep Learning Applications NLP, Ch 12 Pg 456 - 473 of Deep Learning Book](http://www.deeplearningbook.org/contents/applications.html)
+
+- Assessment - How much did you learn? Vocabulary, Fluency, Context.
 
 ## Supplemental Materials
+
+### Assignments
+
+These are available for students who take a keen interest in applying the code themselves:
+- [Topic Modeling in SciKit Learn](/Homework/Topic-Modeling/)
+
+- [Complete the Tutorial - Vector Representation of Words using TensorFlow](https://www.tensorflow.org/tutorials/word2vec)
+
+### Readings
+
+- [How Machines Learn to Be Racist - Propublica](https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you)
+- [Machine Learning Basics, Ch 5 Deep Learning Book](http://www.deeplearningbook.org/contents/ml.html)
+- [Deep Learning Applications NLP, Ch 12 Pg 456 - 473 of Deep Learning Book](http://www.deeplearningbook.org/contents/applications.html)
+
  
 ### Computing Resources
 - Python
