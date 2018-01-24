@@ -9,9 +9,11 @@
 - Project: Topic Modeling of Supreme Court Documents 
  
 ## Description
+
 The AI and Law Mini-course is designed to expose students to real-world use cases of Artificial Intelligence in law practice. We'll begin with a high-level overview of artificial intelligence concepts and techniques, then walk through an applied example of topic modeling for supreme court cases using Natural Language Processing. You'll also learn where to find public datasets for use in future research and applications.
  
 ## Setup
+
 Make sure to follow the [AI-Workshop-Installation-Guides](https://github.com/AccelAI/AI-Workshop-Installation-Guides) to get your computer set up for the applied lab and homework sessions.
 
 ##Mac OSX
@@ -34,9 +36,13 @@ Open a new terminal window by pressing **cmd + t** and move into the workshop di
 cd ~/AI-Law-Minicourse
 ```
 
-### Link Clones Github Repository to Docker
+### Link Cloned Github Repository to Docker
 
-Link this directory to your Docker container by executing docker run -it --rm --name ai-law -v ~/AI-Law-Minicourse -p 8888:8888 -p 6006:6006
+Link this directory to your Docker container by executing:
+
+```
+docker run -it --rm --name ai-law -v ~/AI-Law-Minicourse -p 8888:8888 -p 6006:6006
+```
 
 More details on sharing files from your local machine into a Docker container can be found here: https://github.com/rocker-org/rocker/wiki/Sharing-files-with-host-machine
 
@@ -94,9 +100,10 @@ Join our slack channel - http://bit.ly/accelai-slack. Once in slack, you'll rece
     * Include a description of the workflow being applied, what format the data is in during each step, what each function is doing, etc
 
 - [Complete the Tutorial - Vector Representation of Words using TensorFlow](https://www.tensorflow.org/tutorials/word2vec)
-    * Launch an empty Jupyter Notebook in your new **AI-Law-Minicourse-HW** local reposity
+    * Launch an empty Jupyter Notebook in your new **AI-Law-Minicourse-HW** local repository
         - If you downloaded Docker and are using the Docker-Hub image of Anaconda, you'll need to connect your new repository to your Docker instance
         - If you downloaded Anaconda locally, you should be able to launch jupyter notebook from the local directory and have access to the needed scientific packages
+    * Make sure to import tensorflow into the Jupyter Notebook
     * Add the code from this tutorial in your new Jupyter Notebook, make sure it executes as decribed
         - Save your work intermittently
         - Push your saved work from your local repository to the Github repository for assessment
