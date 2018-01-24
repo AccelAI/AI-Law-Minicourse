@@ -16,7 +16,13 @@ The AI and Law Mini-course is designed to expose students to real-world use case
 
 Make sure to follow the [AI-Workshop-Installation-Guides](https://github.com/AccelAI/AI-Workshop-Installation-Guides) to get your computer set up for the applied lab and homework sessions.
 
-##Mac OSX
+### Pull the Latest Version of this Repository
+
+```
+git pull origin master
+```
+
+## Mac OSX
 
 ### Clone this Repository
 
