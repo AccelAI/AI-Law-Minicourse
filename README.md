@@ -22,19 +22,40 @@ Make sure to follow the [AI-Workshop-Installation-Guides](https://github.com/Acc
 git pull origin master
 ```
 
-## Mac OSX
+## Mac OSX & Windows
+
+Refer to this guide from Github for help - [Cloning a repository](https://help.github.com/articles/cloning-a-repository/#platform-mac)
+
+**For Windows**
+
+Download Git command prompt - https://git-scm.com/downloads
+
 
 ### Clone this Repository
+
+Execute the following command in your terminal or git command prompt.
 
 ```
 git clone https://github.com/AccelAI/AI-Law-Minicourse.git
 ```
 
-### Start Docker
+If you are using the [Github desktop](https://services.github.com/on-demand/github-desktop/clone-repository-github-desktop):
+
+1. Sign in to GitHub.com and GitHub Desktop.
+2. On GitHub.com, navigate to the Code tab of the repository.
+3. On the right side of the screen, click Clone or download.
+4. Click Open in Desktop. This will open GitHub Desktop.
+5. Select where you’d like to save it locally under Local Path
+6. Click Clone.
+
+
+### Docker (Optional)
+
+If you are using Docker to access the Anaconda distribution:
 
 Start Docker, e.g., using spotlight search (by pressing the cmd + space bar) or Finder to navigate to your Applications folder and double-clicking on the Docker icon
 
-### Open Workshop Repository
+**Open Workshop Repository**
 
 Open a new terminal window by pressing **cmd + t** and move into the workshop directory by executing:
 
@@ -42,7 +63,11 @@ Open a new terminal window by pressing **cmd + t** and move into the workshop di
 cd ~/AI-Law-Minicourse
 ```
 
-### Link Cloned Github Repository to Docker
+**If this command returns an error, your directory is located in a different file path** 
+
+
+
+**Link Cloned Github Repository to Docker**
 
 Link this directory to your Docker container by executing:
 
@@ -112,7 +137,8 @@ Join our slack channel - http://bit.ly/accelai-slack. Once in slack, you'll rece
     * Make sure to import tensorflow into the Jupyter Notebook
     * Add the code from this tutorial in your new Jupyter Notebook, make sure it executes as decribed
         - Save your work intermittently
-        - Push your saved work from your local repository to the Github repository for assessment
+    * Push your saved work from your local repository to the Github repository for assessment
+        - Successfult completion of this tutorial includes completing a push to Github with your new Jupyter Notebook which has run all the code in this tutorial.
 
 
 ## Reading & Videos
@@ -174,17 +200,24 @@ These are available for students who take a keen interest in applying the code t
 - Python
     * [Codeacademy Learn Python](https://www.codecademy.com/learn/learn-python)
     * [Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+
 - Anaconda Distribution
     * [Anaconda Docs Getting Started Guide](https://conda.io/docs/user-guide/getting-started.html)
+
 - Jupyter Notebook
     * [Jupyter/IPython Notebook Quick Start Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
     * [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
+    * [Running Tensorflow in Jupyter Notebook - StackOverflow](https://stackoverflow.com/questions/43216256/running-tensorflow-in-jupyter-notebook)
+    * [Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough](https://www.youtube.com/watch?v=HW29067qVWk)
+
 - Web Scraping
     * [Web Scraping with Python Cheat Sheet](https://blog.hartleybrody.com/web-scraping-cheat-sheet/)
+
 - Github
     * [How to Collaborate On GitHub](https://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267)
     * [GitHub Collaboration Best Practices](https://github.com/ideaconsult/etc/wiki/GitHub-Collaboration-Best-Practices)
     * [Collaboration with Git and GitHub Video](https://youtu.be/SCZF6I-Rc4I)
+
 - Command Line
     * [Codecademy Learn the Command Line](https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command)
     * [Mac Terminal Cheat Sheet](https://skillcrush.com/wp-content/uploads/2016/04/1a-TerminalCommandsCheatsheetMac.pdf)
