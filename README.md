@@ -195,6 +195,17 @@ These are available for students who take a keen interest in applying the code t
 - [Machine Learning Basics, Ch 5 Deep Learning Book](http://www.deeplearningbook.org/contents/ml.html)
 - [Deep Learning Applications NLP, Ch 12 Pg 456 - 473 of Deep Learning Book](http://www.deeplearningbook.org/contents/applications.html)
 
+### Deep Learning Tutorials
+
+- Deep Learning tutorials: http://deeplearning.net/tutorials
+- Stanford deep learning tutorials with simple programming assignments and reading list http://deeplearning.stanford.edu/wiki/
+- Recursive Autoencoder class project: 
+    http://cseweb.ucsd.edu/~elkan/250B/learningmeaning.pdf
+- Graduate Summer School: Deep Learning, Feature Learning:
+    http://www.ipam.ucla.edu/programs/gss2012/
+- ICML 2012 Representation Learning tutorial: 
+    http://www.iro.umontreal.ca/~bengioy/talks/deep-learning-tutorial2012.html
+
  
 ### Computing Resources
 - Python
